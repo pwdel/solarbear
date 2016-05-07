@@ -1,7 +1,7 @@
 # solarninja
 The Solar Ninja - Remote Solar Tracking and Control
 
-# USB
+## Saving Files to USB Stick
 
 Here is some filename length limit in popular file systems
 
