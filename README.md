@@ -1,5 +1,5 @@
 # solarninja
-The Solar Ninja - Remote Solar Tracking and Control
+The Solar Bear - Remote Solar Tracking and Control
 
 ## Saving Files to USB Stick
 
