@@ -1,5 +1,5 @@
-# solarninja
-The Solar Bear - Remote Solar Tracking and Control
+# SolarBear
+The SolarBear - Remote Solar Power Monitoring and Control
 
 ## Saving Files to USB Stick
 
