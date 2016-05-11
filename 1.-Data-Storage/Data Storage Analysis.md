@@ -15,3 +15,10 @@ We need a better plan to store our big huge lot of IoT data.
 
 ## Plan To Make Data Store Easier
 
+### Looking At Data Stores
+
+Amazon Kinesis
+
+http://calculator.s3.amazonaws.com/index.html#s=KINESIS
+
+Google Cloud
